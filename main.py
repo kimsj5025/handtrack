@@ -4,6 +4,7 @@ import time
 import numpy as np
 import osascript
 
+
 cap = cv2.VideoCapture(0)
 cVol = 0
 
